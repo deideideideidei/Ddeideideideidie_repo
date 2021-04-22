@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>login_module_dev_repo_develop_D</RootNamespace>
+  </PropertyGroup>
+
+</Project>
